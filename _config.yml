@@ -1,10 +1,10 @@
 # Site settings
 title: Litmus Blog
-SEOTitle: PH 的博客 | Litmus Blog
+SEOTitle: 甫行的博客 | Litmus Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: hl02042012@outlook.com
 description: "一个普通的个人博客，装满了碎碎念"
-keyword: "Litmus, PH Blog, PH 的博客, lianghaichuan, 梁海川, Harrison Liang, No.6 Middle School, 六中"
+keyword: "Litmus, HL Blog, 甫行的博客, lianghaichuan, 梁海川, Harrison Liang, No.6 Middle School, 六中"
 url: "http://litmus-ph.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
